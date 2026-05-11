@@ -42,6 +42,16 @@ points:
   version or use “or later”; declared incompatibilities may restrict mixing
   versions/variants
 
+# Current Situation and Future Plans
+
+Currently, VEX Robotics and the RECF are going through a split that may affect
+the terms of the license (especially since this license was based on the RECF
+student sentered policy). However, not much is known about this situation as of
+now. Therefore, the current licenses may continued to be used for the
+foreseeable future, but they may need to be updated depending on how the
+situation unfolds. Visit this forum thread for more discussion on this topic:
+https://www.vexforum.com/t/rec-foundation-no-longer-runs-vex-events/146301
+
 # Notice
 CROSSL licenses and its steward(s) are in no way affiliated with, endorsed by,
 or sponsored by the Robotics Education & Competition Foundation (RECF) or
