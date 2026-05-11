@@ -6,12 +6,12 @@ and they aim to allow competition-legal software while discouraging misuse.
 
 # License List
 
-| **License** | CROSSL-P-1.0 |
-| :--- | :--- |
-| **License Type** | Permissive |
-| **Visibility of Derivative Works** | Can be open-source or closed-source |
-| **Viral Nature** | No |
-| **Commercial Use** | Allowed |
+| **License** | CROSSL-P-1.0 | CROSSL-WC-1.0
+| :--- | :--- | :--- |
+| **License Type** | Permissive | Weak Copyleft |
+| **Visibility of Derivative Works** | Can be open-source or closed-source | Only the Program & derivative works should be open-source |
+| **Viral Nature** | No | No |
+| **Commercial Use** | Allowed | Allowed |
 
 # General Summary
 
